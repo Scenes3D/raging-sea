@@ -1,3 +1,5 @@
+<img src="img/preview.jpg" alt="Raging Sea Preview" width="100%" />
+
 # Three.js TSL
 
 ## Setup
